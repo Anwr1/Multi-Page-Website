@@ -1,0 +1,32 @@
+
+
+a:hover{
+  background-color: lightblue;
+  color:orange
+}
+a:active{
+  background-color: green;
+  color:yellow
+}
+
+body{
+      background-image:url(https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    }
+*{
+  color: white;
+}
+h1:first-letter{
+  font-size: 2em;
+}
+a[target="_Blank"]{
+  background-color: lightcoral;
+  color: darkblue;
+}
+
+img {
+  width:40%;
+  margin:30px;
+}
+  
